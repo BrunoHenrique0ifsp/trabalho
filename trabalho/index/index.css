@@ -1,0 +1,37 @@
+body{
+margin: 0%;
+font-family: ;
+}
+
+.login{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    position:absolute;
+    margin-left: 1250px;
+    margin-top: 20px;
+    z-index: 3;
+    border-radius: 50px;
+    font-size: 45px;
+    text-align: center;
+}
+.nome{
+    width: 400px;
+    height: 150px;
+    background-color: white;
+    position:absolute;
+    margin-left: 20px;
+    margin-top: 570px;
+    z-index: 3;
+    font-size: 47px;
+    border-radius: 50px;
+    text-align: center;
+
+}
+
+.fundo img
+{
+    width: 100vw;
+    height: 100vh;
+    -webkit-filter:saturate(80%);
+}

@@ -1,0 +1,47 @@
+body{
+   margin: 0;
+   font-size: 35px;
+   color: black;
+   
+}
+.fundo img
+{
+    width: 100vw;
+    height: 100vh;
+    -webkit-filter:brightness(70%);
+    position: absolute;
+}
+.pai{
+    height: 470px;
+    width: 500px;
+    background-color: white;
+    position: absolute;
+    z-index: 3;
+    margin: auto;
+   text-align: center;
+   margin-top: 130px;
+   margin-left: 32.5%;
+   border-radius: 50px;
+}
+#nome{
+    width: 200px;
+    height: 35px;
+    margin: 10px;
+}
+#password{
+    width: 200px;
+    height: 35px;
+}
+.l{
+    width: 300px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 20px;
+    margin-top: 10px;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+#link{
+    color: black;
+}

@@ -1,0 +1,70 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:25px;
+    color: white;
+}
+.pai{
+    width: 100vw;
+    height: 200vh;
+}
+.cima{
+    width: 100vw;
+    height: 40vh;
+    background-color: #483D8B;
+}
+.a{
+    width: 100px;
+    height: 50px;
+}
+.e1{
+    font-size: 25px;
+}
+.input{
+    margin-left: 45px;
+
+}
+.procurados{
+    background-color: white;
+    width: 100vw;
+    height: 200vh;
+    color: black;
+
+}
+
+#p{
+    margin-top: 0px;
+    color: white;
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+#onde{
+    height: 30px;
+    width: 200px;
+}
+#button{
+    height: 30px;
+    width: 170px;
+    background-color: 	#1E90FF;
+    color: white;
+    border: 2px solid black;
+}
+
+img{
+    border-radius: 50px;
+    height: 400px;
+    width: 500px;
+    display: block;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 880px
+    margin: 0 auto;
+}
+
+.flex > div {
+    flex: 1 1 200px;
+    margin: 10px;
+}
